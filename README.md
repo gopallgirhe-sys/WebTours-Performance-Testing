@@ -1,3 +1,47 @@
+# Hi, I'm Gopal Girhe 👋
+
+## Performance Testing Engineer | Pune India
+
+### 🔧 Skills
+- Apache JMeter 5.6.3
+- Load Testing | Stress Testing | Spike Testing
+- API Performance Testing
+- CSV Parameterization & Correlation
+- Non-GUI Execution & HTML Reports
+- Grafana InfluxDB Monitoring
+- Postman | SQL
+
+### 📁 Projects
+
+#### 🛫 WebTours Flight Booking -JMeter Performance Test
+- End-to-end load test on flight booking application
+- 6 transaction flows -Register, Login, Search, Select, Book, Signoff
+- CSV parameterization with 10 unique users
+- APDEX Score: 1.000 | Error Rate: 0% | 30 Samples
+
+#### 🛒 Demoblaze E-Commerce -JMeter Performance Test
+- End-to-end load test on e-commerce application
+- Cookie-based authentication
+- Complete shopping flow -Login, Browse, Add to Cart, Checkout
+
+#### 🔌 ReqRes API -JMeter Performance Test
+- REST API performance testing
+- Bearer token authentication using JSON Extractor
+- GET and POST API load testing
+
+### 📊 Performance Testing Knowledge
+- HTTP Status Codes | Bottleneck Analysis
+- SLA | SLO | SLI concepts
+- Monitoring with Grafana + InfluxDB
+- APM Tools - New Relic, Dynatrace awareness
+- JMeter Plugins - Concurrency Thread Group
+
+### 🎯 Currently
+Seeking Junior Performance Testing Engineer roles in Pune
+
+### 📫 Contact
+- Email: gopallgirhe@gmail.com
+
 # WebTours-Performance-Testing
 # WebTours Flight Booking -JMeter Performance Test
 
